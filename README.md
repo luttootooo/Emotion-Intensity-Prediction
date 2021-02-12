@@ -1,1 +1,4 @@
 # Emotion-Intensity-Prediction
+
+<br> This project was part of my final project for the Data Science course. This project aims to correctly predict the intensity (ranges from 0-1) of the four-type emotions. The dataset only has three features: the reviews or the sentences to be reviewed, the labels (include anger, sadness, fear, happiness), and the intensity of those emotions. We used the Pearson Correlation Coefficient with Gold ratings as the evaluation score. Even though the score displayed in the notebook wasn't awe-inspiring (as other people in the same course also gained the similar score), I thought I had made some improvements compared to my last mid-term project.
+<br>This project focused on sentiment analysis prediction, in which we used a lot of simple NLP libraries and processes to clean and perform preprocessing on our text.
